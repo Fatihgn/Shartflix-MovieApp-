@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "44501532854",
+    "project_id": "shartfli",
+    "storage_bucket": "shartfli.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:44501532854:android:648f67e58769f50374a617",
+        "android_client_info": {
+          "package_name": "com.example.architecture"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1flxHYbTVIrAtQjLgOU5xI_TBvBeyaZw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

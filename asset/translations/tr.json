@@ -1,0 +1,80 @@
+{
+    "login": {
+        "title": "Merhabalar",
+        "subtitle": "Tekrar hoş geldiniz, lütfen hesabınıza giriş yapın.",
+        "mail": "E-posta",
+        "password": "Şifre",
+        "forgotPassword": "Şifremi Unuttum",
+        "loginButton": "Giriş Yap",
+        "registerText": "Bir hesabın yok mu?",
+        "registerButton": "Kayıt Ol!",
+        "emptyFields": "Lütfen tüm alanları doldurun."
+    },
+    "register": {
+        "title": "Hoşgeldiniz",
+        "subtitle": "Lütfen hesabınızı oluşturun.",
+        "name": "Ad Soyad",
+        "mail": "E-posta",
+        "password": "Şifre",
+        "confirmPassword": "Şifre Tekrar",
+        "userRead": "Kullanıcı sözleşmesini",
+        "userRead2": "okudum ve kabul ediyorum.",
+        "userRead3": "Bu sözelşmeyi okuyarak devam ediniz lütfen.",
+        "registerButton": "Kayıt Ol!",
+        "loginButton": "Giriş Yap!",
+        "loginText": "Zaten bir hesabın var mı?",
+        "emptyFields": "Lütfen tüm alanları doldurun.",
+        "passwordMismatch": "Şifreler eşleşmiyor."
+    },
+    "upload_photo": {
+        "title": "Profil Detayı",
+        "subtitle": "Fotoğraflarınızı Yükleyin",
+        "explain": "Profil fotoğrafınızı yükleyerek hesabınızı kişiselleştirin.",
+        "button": "Devam Et"
+    },
+    "profile": {
+        "title": "Profil Detayı",
+        "addPhoto": "Fotoğraf Ekle",
+        "premium": "Sınırlı Teklif",
+        "favorites": "Beğendiğim Filmler"
+    },
+    "bottom": {
+        "home": "Anasayfa",
+        "profile": "Profil"
+    },
+    "home": {
+        "more": "Daha Fazlası",
+        "less": "Daha Az"
+    },
+    "premium": {
+        "title": "Sınırlı Teklif",
+        "subtitle": "Jeton paketin’ni seçerek bonus kazanın ve yeni bölümlerin kilidini açın!", 
+        "bonus": "Alacağınız Bonuslar",
+        "account": "Premium Hesap",
+        "match": "Daha Fazla Eşleşme",
+        "recommendation": "Öne Çıkarma",
+        "like": "Daha Fazla Beğeni",
+        "lock": "Kilidi açmak için bir jeton paketi seçin",
+        "token": "Jeton",
+        "perWeek": "Başına haftalık",
+        "allTokens": "Tüm Jetonları Gör"
+    },
+    "general":{
+        "button": {
+            "save": "Butonu Kaydet"
+        },
+        "dialog": {
+            "error": {
+                "title": "Hata Oluştu",
+                "message": "Bir hata oluştu. Lütfen tekrar deneyin."
+            },
+            "success": {
+                "title": "Başarılı",
+                "message": "İşlem başarıyla tamamlandı."
+            },
+            "onTap": {
+                "message": "Butonu kaydetmek istiyor musunuz?"
+            }
+        }
+    }
+}

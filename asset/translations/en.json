@@ -1,0 +1,80 @@
+{   
+    "login": {
+        "title": "Hello",
+        "subtitle": "Welcome back, please login to your account.",
+        "mail": "E-mail",
+        "password": "Password",
+        "forgotPassword": "Forgot Password?",
+        "loginButton": "Login",
+        "registerText": "Don't have an account?",
+        "registerButton": "Register!",
+        "emptyFields": "Please fill in all fields."
+    },
+    "register": {
+        "title": "Welcome",
+        "subtitle": "Please create your account.",
+        "name": "Full Name",
+        "mail": "E-mail",
+        "password": "Password",
+        "confirmPassword": "Confirm Password",
+        "userRead": "I have read and",
+        "userRead2": "agree to the user agreement.",
+        "userRead3": " Please read this agreement before proceeding.",
+        "registerButton": "Register!",
+        "loginButton": "Login!",
+        "loginText": "Already have an account?",
+        "emptyFields": "Please fill in all fields.",
+        "passwordMismatch": "Passwords do not match."
+    },
+    "upload_photo": {
+        "title": "Profil Detail",
+        "subtitle": "Upload your profile photo.",
+        "explain": "Personalize your account by uploading your profile photo.",
+        "button": "Continue"
+    },
+    "profile": {
+        "title": "Profile Detail",
+        "addPhoto": "Add Photo",
+        "premium": "Limited Offer",
+        "favorites": "My Favorite Movies"
+    },
+    "bottom": {
+        "home": "Home",
+        "profile": "Profile"
+    },
+    "home": {
+        "more": "More Details",
+        "less": "Less Details"
+    },
+    "premium": {
+        "title": "Limited Offer",
+        "subtitle": "Choose your token package to earn bonuses and unlock new episodes!", 
+        "bonus": "Bonuses You Will Receive",
+        "account": "Premium Account",
+        "match": "More Matches",
+        "recommendation": "Highlight",
+        "like": "More Likes",
+        "lock": "Select a token package to unlock",
+        "token": "Token",
+        "perWeek": "Per Week",
+        "allTokens": "View All Tokens"
+    },
+    "general":{
+        "button": {
+            "save": "Save"
+        },
+        "dialog": {
+            "error": {
+                "title": "Error",
+                "message": "An error occurred. Please try again."
+            },
+            "success": {
+                "title": "Success",
+                "message": "Operation completed successfully."
+            },
+            "onTap": {
+                "message": "Do you want to save the button?"
+            }
+        }
+    }
+}
