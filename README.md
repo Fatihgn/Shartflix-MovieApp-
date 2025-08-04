@@ -61,7 +61,7 @@ https://github.com/user-attachments/assets/3830d3ad-3376-4c4f-8894-89175a6483c5
 ## 📌 Bonus Özellikler
 
 
-- ustom Theme oluşturuldu ve dark light theme arasında geçiş yapmayı kolay hale getirildi.
+- Custom Theme oluşturuldu ve dark light theme arasında geçiş yapmayı kolay hale getirildi.
 
 - Navigation servis kuruldu. go_router
 
