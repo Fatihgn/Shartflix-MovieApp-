@@ -31,7 +31,7 @@ https://github.com/user-attachments/assets/3830d3ad-3376-4c4f-8894-89175a6483c5
 
 ### 3. Profil Özellikleri 
 - Kullanıcı bilgilerinin (isim, ID) görüntülenmesi yapıldı. 
-- Kullanıcının favori filmlerinin listelenmesi. / Listing the user's favorite movies.
+- Kullanıcının favori filmlerinin listelenmesi.
 - Profil fotoğrafı seçme kırpma ve yükleme özelliği eklendi.
 
 | Profil Sayfası | Fotoğraf Seçme |
