@@ -1,7 +1,10 @@
 # Shartflix-MovieApp-
 
-| ![Uygulama Videosu]([<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 16 Pro - 2025-08-05 at 02 31 33" src="https://github.com/user-attachments/assets/a4d0c064-84d5-4b00-9952-bc7766eae812" />](https://github.com/user-attachments/assets/d8186664-55c2-4c13-802e-2ddb949df6e4)
-) |
+| Uygulama Videosu |
+|:---:|
+| 
+https://github.com/user-attachments/assets/3830d3ad-3376-4c4f-8894-89175a6483c5
+|
 ---
 
 ## 🚀 Temel Gereksinimler / Core Requirements
@@ -13,7 +16,7 @@
 
 | Giriş Ekranı | Kayıt Ekranı /  |
 |:---:|:---:|
-| ![Giriş Ekranı](<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 16 Pro - 2025-08-05 at 02 16 38" src="https://github.com/user-attachments/assets/dd231841-3f5e-440b-8c56-412124eb771d" />) | ![Kayıt Ekranı](<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 16 Pro - 2025-08-05 at 02 16 46" src="https://github.com/user-attachments/assets/90f93b55-3953-42db-9644-5fcbf8f891eb" />) |
+| (<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 16 Pro - 2025-08-05 at 02 16 38" src="https://github.com/user-attachments/assets/dd231841-3f5e-440b-8c56-412124eb771d" />) | (<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 16 Pro - 2025-08-05 at 02 16 46" src="https://github.com/user-attachments/assets/90f93b55-3953-42db-9644-5fcbf8f891eb" />) |
 
 ### 2. Ana Sayfa Özellikleri
 - Sonsuz kaydırma (Infinite scroll) ile filmlerin dinamik olarak yüklenmesi sağlandı.
@@ -24,7 +27,7 @@
 -  
 | Ana Sayfa | Ana Sayfa |
 |:---:|:---:|
-| ![Ana Sayfa](<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 16 Pro - 2025-08-05 at 02 21 27" src="https://github.com/user-attachments/assets/e438493c-2ca3-4725-b878-b799b80715bd" />) | ![Ana Sayfa](<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 16 Pro - 2025-08-05 at 02 21 49" src="https://github.com/user-attachments/assets/c025f664-d6f6-40fe-ab7b-b6afa5badf50" />) |
+| (<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 16 Pro - 2025-08-05 at 02 21 27" src="https://github.com/user-attachments/assets/e438493c-2ca3-4725-b878-b799b80715bd" />) | (<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 16 Pro - 2025-08-05 at 02 21 49" src="https://github.com/user-attachments/assets/c025f664-d6f6-40fe-ab7b-b6afa5badf50" />) |
 
 ### 3. Profil Özellikleri / Profile Features
 - Kullanıcı bilgilerinin (isim, ID) görüntülenmesi yapıldı. 
@@ -33,8 +36,8 @@
 
 | Profil Sayfası | Fotoğraf Seçme |
 |:---:|:---:|
-| ![Profil Sayfası](<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 16 Pro - 2025-08-05 at 02 25 33" src="https://github.com/user-attachments/assets/8a64f59a-6766-4100-a85d-881739056501" />
-) | ![Fotoğraf Seçme](<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 16 Pro - 2025-08-05 at 02 26 11" src="https://github.com/user-attachments/assets/d89ec230-4683-4827-8325-07c1490ae806" />
+| (<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 16 Pro - 2025-08-05 at 02 25 33" src="https://github.com/user-attachments/assets/8a64f59a-6766-4100-a85d-881739056501" />
+) | (<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 16 Pro - 2025-08-05 at 02 26 11" src="https://github.com/user-attachments/assets/d89ec230-4683-4827-8325-07c1490ae806" />
 ) |
 
 ### 4. Navigasyon / Navigation
@@ -53,7 +56,7 @@
 
 | Sınırlı Teklif |
 |:---:|
-| ![Bottom Sheet](<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 16 Pro - 2025-08-05 at 02 31 33" src="https://github.com/user-attachments/assets/a4d0c064-84d5-4b00-9952-bc7766eae812" />
+| (<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 16 Pro - 2025-08-05 at 02 31 33" src="https://github.com/user-attachments/assets/a4d0c064-84d5-4b00-9952-bc7766eae812" />
 ) |
 
 ---
