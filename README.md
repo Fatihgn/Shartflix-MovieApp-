@@ -1,9 +1,5 @@
 # Shartflix-MovieApp-
 
-| Uygulama Videosu |
-|:---:|
-
-https://github.com/user-attachments/assets/3830d3ad-3376-4c4f-8894-89175a6483c5
 
 ---
 
@@ -78,6 +74,11 @@ https://github.com/user-attachments/assets/3830d3ad-3376-4c4f-8894-89175a6483c5
 - Splash screen oluşturuldu ve uygulama iconu değiştirildi.
 
 - Logger implementasyonu yapıldı.
+
+| Uygulama Videosu |
+|:---:|
+
+https://github.com/user-attachments/assets/3830d3ad-3376-4c4f-8894-89175a6483c5
 
 
 
