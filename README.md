@@ -61,23 +61,23 @@ https://github.com/user-attachments/assets/3830d3ad-3376-4c4f-8894-89175a6483c5
 ## 📌 Bonus Özellikler
 
 
-- **Custom Theme oluşturuldu ve dark light theme arasında geçiş yapmayı kolay hale getirildi.
+- ustom Theme oluşturuldu ve dark light theme arasında geçiş yapmayı kolay hale getirildi.
 
-- **CNavigation servis kuruldu. go_router
+- Navigation servis kuruldu. go_router
 
-- **CLocalization sınıfı eklendi. easy_localization kullanıldı ve tr en seçenekleri eklendi. Profildeki buttondan uygulamayı ingilizce yaparak deneyebilirsiniz. Tasarım bozmamak için tr seçeneğini eklemedim.
+- Localization sınıfı eklendi. easy_localization kullanıldı ve tr en seçenekleri eklendi. Profildeki buttondan uygulamayı ingilizce yaparak deneyebilirsiniz. Tasarım bozmamak için tr seçeneğini eklemedim.
 
-- **CLogger servisi kuruldu.
+- Logger servisi kuruldu.
 
-- **CFirebaseCrashlytics, Analytics kuruldu ve uygulamaya entegre edildi.
+- FirebaseCrashlytics, Analytics kuruldu ve uygulamaya entegre edildi.
 
-- **CYüklenme animasyonu lottie kullanarak oluşturuldu ve uygulamanın her yerinde kullanıldı.
+- Yüklenme animasyonu lottie kullanarak oluşturuldu ve uygulamanın her yerinde kullanıldı.
 
-- **Cflutter_secure_storage sayesinde güvenli token kullanımı yapıldı.
+- flutter_secure_storage sayesinde güvenli token kullanımı yapıldı.
 
-- **CSplash screen oluşturuldu ve uygulama iconu değiştirildi.
+- Splash screen oluşturuldu ve uygulama iconu değiştirildi.
 
-- **CLogger implementasyonu yapıldı.
+- Logger implementasyonu yapıldı.
 
 
 
