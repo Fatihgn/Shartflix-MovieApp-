@@ -7,14 +7,14 @@ https://github.com/user-attachments/assets/3830d3ad-3376-4c4f-8894-89175a6483c5
 
 ---
 
-## 🚀 Temel Gereksinimler / Core Requirements
+## 🚀 Temel Gereksinimler 
 
-### 1. Kimlik Doğrulama / Authentication
+### 1. Kimlik Doğrulama 
 - Giriş ve kayıt implementasyonu yapıldı.
 - Token flutter_secure_storage ile güvenli şekilde saklandı.
 - Başarılı girişte bloc listener ve go_router sayesinde sayfa geçişi yapıldı.
 
-| Giriş Ekranı | Kayıt Ekranı /  |
+| Giriş Ekranı | Kayıt Ekranı  |
 |:---:|:---:|
 | <img width="1206" height="2622" alt="Simulator Screenshot - iPhone 16 Pro - 2025-08-05 at 02 16 38" src="https://github.com/user-attachments/assets/dd231841-3f5e-440b-8c56-412124eb771d" /> | <img width="1206" height="2622" alt="Simulator Screenshot - iPhone 16 Pro - 2025-08-05 at 02 16 46" src="https://github.com/user-attachments/assets/90f93b55-3953-42db-9644-5fcbf8f891eb" /> |
 
@@ -29,7 +29,7 @@ https://github.com/user-attachments/assets/3830d3ad-3376-4c4f-8894-89175a6483c5
 |:---:|:---:|
 | <img width="1206" height="2622" alt="Simulator Screenshot - iPhone 16 Pro - 2025-08-05 at 02 21 27" src="https://github.com/user-attachments/assets/e438493c-2ca3-4725-b878-b799b80715bd" /> | <img width="1206" height="2622" alt="Simulator Screenshot - iPhone 16 Pro - 2025-08-05 at 02 21 49" src="https://github.com/user-attachments/assets/c025f664-d6f6-40fe-ab7b-b6afa5badf50" /> |
 
-### 3. Profil Özellikleri / Profile Features
+### 3. Profil Özellikleri 
 - Kullanıcı bilgilerinin (isim, ID) görüntülenmesi yapıldı. 
 - Kullanıcının favori filmlerinin listelenmesi. / Listing the user's favorite movies.
 - Profil fotoğrafı seçme kırpma ve yükleme özelliği eklendi.
